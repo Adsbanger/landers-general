@@ -1,0 +1,17 @@
+{
+  "spin_now": "GIRE AGORA",
+  "spin": "GIRAR",
+  "text_attempts": "Tentativas",
+  "congratulations": "Parabens!",
+  "text_congrats": "Hoje e seu dia de sorte - voce foi selecionado para girar a roda!",
+  "start": "INICIAR",
+  "age_question": "Voce tem mais de 21 anos?",
+  "no": "NAO",
+  "yes": "SIM",
+  "bad_luck": "Ma sorte!",
+  "try_again_translated": "TENTAR NOVAMENTE",
+  "final_text": "Uma oferta personalizada esta esperando por voce! Basta pressionar o botao CONTINUAR!",
+  "continue": "CONTINUAR",
+  "answer_questions_count": "Responda a todas as perguntas para continuar",
+  "title_time": "Voce so tem {timer} para girar a roda"
+}

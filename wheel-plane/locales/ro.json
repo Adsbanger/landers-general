@@ -1,0 +1,17 @@
+{
+  "spin_now": "INVARTESTE ACUM",
+  "spin": "INVARTESTE",
+  "text_attempts": "Incercari",
+  "congratulations": "Felicitari!",
+  "text_congrats": "Astazi este ziua ta norocoasa - ai fost selectat sa invarti roata!",
+  "start": "START",
+  "age_question": "Ai peste 21 de ani?",
+  "no": "NU",
+  "yes": "DA",
+  "bad_luck": "Ghinion!",
+  "try_again_translated": "INCEARCA DIN NOU",
+  "final_text": "O oferta personalizata te asteapta! Apasa doar butonul CONTINUA!",
+  "continue": "CONTINUA",
+  "answer_questions_count": "Raspunde la toate intrebarile pentru a continua",
+  "title_time": "Ai doar {timer} pentru a invarti roata"
+}

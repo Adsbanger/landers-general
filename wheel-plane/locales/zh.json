@@ -1,0 +1,17 @@
+{
+  "spin_now": "立即旋转",
+  "spin": "旋转",
+  "text_attempts": "尝试次数",
+  "congratulations": "恭喜!",
+  "text_congrats": "今天是你的幸运日 - 你已被选中旋转转盘!",
+  "start": "开始",
+  "age_question": "你是否年满21岁?",
+  "no": "否",
+  "yes": "是",
+  "bad_luck": "运气不佳!",
+  "try_again_translated": "再试一次",
+  "final_text": "个性化优惠正在等你! 只需点击 CONTINUE 按钮!",
+  "continue": "继续",
+  "answer_questions_count": "回答所有问题以继续",
+  "title_time": "你只有 {timer} 来旋转转盘"
+}

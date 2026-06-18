@@ -1,0 +1,17 @@
+{
+  "spin_now": "סובב עכשיו",
+  "spin": "סובב",
+  "text_attempts": "נסיונות",
+  "congratulations": "מזל טוב!",
+  "text_congrats": "היום זה יום המזל שלך - נבחרת לסובב את הגלגל!",
+  "start": "התחל",
+  "age_question": "האם אתה מעל גיל 21?",
+  "no": "לא",
+  "yes": "כן",
+  "bad_luck": "חוסר מזל!",
+  "try_again_translated": "נסה שוב",
+  "final_text": "הצעה מותאמת אישית מחכה לך! פשוט לחץ על כפתור המשך!",
+  "continue": "המשך",
+  "answer_questions_count": "ענה על כל השאלות כדי להמשיך",
+  "title_time": "יש לך רק {timer} לסובב את הגלגל"
+}

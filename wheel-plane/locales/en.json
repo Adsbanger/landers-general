@@ -1,0 +1,17 @@
+{
+  "spin_now": "SPIN NOW",
+  "spin": "SPIN",
+  "text_attempts": "Attempts",
+  "congratulations": "Congratulations!",
+  "text_congrats": "Today's your lucky day - you've been selected to spin the wheel!",
+  "start": "START",
+  "age_question": "Are you over 21 years old?",
+  "no": "NO",
+  "yes": "YES",
+  "bad_luck": "Bad Luck!",
+  "try_again_translated": "TRY AGAIN",
+  "final_text": "A personalized offer is waiting for you! Just press the CONTINUE button!",
+  "continue": "CONTINUE",
+  "answer_questions_count": "Answer all questions to continue",
+  "title_time": "You only have {timer} to spin the wheel"
+}

@@ -1,0 +1,17 @@
+{
+  "spin_now": "今すぐ回す",
+  "spin": "回す",
+  "text_attempts": "試行回数",
+  "congratulations": "おめでとうございます!",
+  "text_congrats": "今日はあなたのラッキーデーです - ルーレットを回す対象に選ばれました!",
+  "start": "スタート",
+  "age_question": "21歳以上ですか?",
+  "no": "いいえ",
+  "yes": "はい",
+  "bad_luck": "残念!",
+  "try_again_translated": "もう一度",
+  "final_text": "あなた向けの特別オファーが待っています! CONTINUEボタンを押してください!",
+  "continue": "続行",
+  "answer_questions_count": "続行するにはすべての質問に答えてください",
+  "title_time": "ルーレットを回せる時間は {timer} だけです"
+}

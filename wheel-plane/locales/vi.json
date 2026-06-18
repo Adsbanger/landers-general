@@ -1,0 +1,17 @@
+{
+  "spin_now": "QUAY NGAY",
+  "spin": "QUAY",
+  "text_attempts": "Luot thu",
+  "congratulations": "Chuc mung!",
+  "text_congrats": "Hom nay la ngay may man cua ban - ban da duoc chon de quay vong quay!",
+  "start": "BAT DAU",
+  "age_question": "Ban co tren 21 tuoi khong?",
+  "no": "KHONG",
+  "yes": "CO",
+  "bad_luck": "Khong may!",
+  "try_again_translated": "THU LAI",
+  "final_text": "Mot uu dai ca nhan dang cho ban! Chi can nhan nut TIEP TUC!",
+  "continue": "TIEP TUC",
+  "answer_questions_count": "Tra loi tat ca cau hoi de tiep tuc",
+  "title_time": "Ban chi co {timer} de quay vong quay"
+}

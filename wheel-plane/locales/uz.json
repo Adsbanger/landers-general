@@ -1,0 +1,17 @@
+{
+  "spin_now": "HOZIR AYLANTIRING",
+  "spin": "AYLANTIRING",
+  "text_attempts": "Urinishlar",
+  "congratulations": "Tabriklaymiz!",
+  "text_congrats": "Bugun sizning omadli kuningiz - siz g'ildirakni aylantirish uchun tanlandingiz!",
+  "start": "BOSHLASH",
+  "age_question": "Siz 21 yoshdan kattamisiz?",
+  "no": "YOQ",
+  "yes": "HA",
+  "bad_luck": "Omadsizlik!",
+  "try_again_translated": "QAYTA URINING",
+  "final_text": "Sizni shaxsiy taklif kutmoqda! Faqat CONTINUE tugmasini bosing!",
+  "continue": "DAVOM ETISH",
+  "answer_questions_count": "Davom etish uchun barcha savollarga javob bering",
+  "title_time": "G'ildirakni aylantirish uchun sizda atigi {timer} bor"
+}

@@ -1,0 +1,17 @@
+{
+  "spin_now": "SNURRA NU",
+  "spin": "SNURRA",
+  "text_attempts": "Forsok",
+  "congratulations": "Grattis!",
+  "text_congrats": "Idag ar din lyckodag - du har valts ut att snurra pa hjulet!",
+  "start": "STARTA",
+  "age_question": "Ar du over 21 ar?",
+  "no": "NEJ",
+  "yes": "JA",
+  "bad_luck": "Otur!",
+  "try_again_translated": "FORSOK IGEN",
+  "final_text": "Ett personligt erbjudande vantar pa dig! Tryck bara pa knappen FORTSATT!",
+  "continue": "FORTSATT",
+  "answer_questions_count": "Svara pa alla fragor for att fortsatta",
+  "title_time": "Du har bara {timer} pa dig att snurra hjulet"
+}

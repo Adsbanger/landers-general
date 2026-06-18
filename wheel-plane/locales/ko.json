@@ -1,0 +1,17 @@
+{
+  "spin_now": "지금 돌리기",
+  "spin": "돌리기",
+  "text_attempts": "시도 횟수",
+  "congratulations": "축하합니다!",
+  "text_congrats": "오늘은 행운의 날입니다 - 휠을 돌릴 대상으로 선택되었습니다!",
+  "start": "시작",
+  "age_question": "21세 이상입니까?",
+  "no": "아니요",
+  "yes": "예",
+  "bad_luck": "아쉽네요!",
+  "try_again_translated": "다시 시도",
+  "final_text": "맞춤형 제안이 기다리고 있습니다! CONTINUE 버튼을 누르세요!",
+  "continue": "계속",
+  "answer_questions_count": "계속하려면 모든 질문에 답하세요",
+  "title_time": "휠을 돌릴 수 있는 시간은 {timer} 뿐입니다"
+}

@@ -1,0 +1,17 @@
+{
+  "spin_now": "GIRA AHORA",
+  "spin": "GIRAR",
+  "text_attempts": "Intentos",
+  "congratulations": "Felicidades!",
+  "text_congrats": "Hoy es tu dia de suerte: has sido seleccionado para girar la ruleta!",
+  "start": "INICIAR",
+  "age_question": "Tienes mas de 21 anos?",
+  "no": "NO",
+  "yes": "SI",
+  "bad_luck": "Mala suerte!",
+  "try_again_translated": "INTENTAR DE NUEVO",
+  "final_text": "Te espera una oferta personalizada! Solo pulsa el boton CONTINUAR!",
+  "continue": "CONTINUAR",
+  "answer_questions_count": "Responde todas las preguntas para continuar",
+  "title_time": "Solo tienes {timer} para girar la ruleta"
+}

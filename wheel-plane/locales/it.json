@@ -1,0 +1,17 @@
+{
+  "spin_now": "GIRA ORA",
+  "spin": "GIRA",
+  "text_attempts": "Tentativi",
+  "congratulations": "Congratulazioni!",
+  "text_congrats": "Oggi e il tuo giorno fortunato: sei stato selezionato per girare la ruota!",
+  "start": "INIZIA",
+  "age_question": "Hai piu di 21 anni?",
+  "no": "NO",
+  "yes": "SI",
+  "bad_luck": "Che sfortuna!",
+  "try_again_translated": "RIPROVA",
+  "final_text": "Un'offerta personalizzata ti aspetta! Premi semplicemente il pulsante CONTINUA!",
+  "continue": "CONTINUA",
+  "answer_questions_count": "Rispondi a tutte le domande per continuare",
+  "title_time": "Hai solo {timer} per girare la ruota"
+}

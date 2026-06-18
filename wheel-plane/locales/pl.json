@@ -1,0 +1,17 @@
+{
+  "spin_now": "ZAKREC TERAZ",
+  "spin": "ZAKREC",
+  "text_attempts": "Proby",
+  "congratulations": "Gratulacje!",
+  "text_congrats": "Dzisiaj jest twoj szczesliwy dzien - zostales wybrany, aby zakrecic kolem!",
+  "start": "START",
+  "age_question": "Czy masz ponad 21 lat?",
+  "no": "NIE",
+  "yes": "TAK",
+  "bad_luck": "Pech!",
+  "try_again_translated": "SPROBUJ PONOWNIE",
+  "final_text": "Czeka na ciebie spersonalizowana oferta! Po prostu nacisnij przycisk KONTYNUUJ!",
+  "continue": "KONTYNUUJ",
+  "answer_questions_count": "Odpowiedz na wszystkie pytania, aby kontynuowac",
+  "title_time": "Masz tylko {timer}, aby zakrecic kolem"
+}

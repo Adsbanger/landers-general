@@ -1,0 +1,17 @@
+{
+  "spin_now": "SNURR NA",
+  "spin": "SNURR",
+  "text_attempts": "Forsok",
+  "congratulations": "Gratulerer!",
+  "text_congrats": "I dag er din lykkedag - du er valgt ut til a snurre hjulet!",
+  "start": "START",
+  "age_question": "Er du over 21 ar?",
+  "no": "NEI",
+  "yes": "JA",
+  "bad_luck": "Uflaks!",
+  "try_again_translated": "PROV IGJEN",
+  "final_text": "Et personlig tilbud venter pa deg! Bare trykk pa knappen FORTSETT!",
+  "continue": "FORTSETT",
+  "answer_questions_count": "Svar pa alle sporsmal for a fortsette",
+  "title_time": "Du har bare {timer} til a snurre hjulet"
+}

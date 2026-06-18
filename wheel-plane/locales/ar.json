@@ -1,0 +1,17 @@
+{
+  "spin_now": "ادُر الآن",
+  "spin": "ادُر",
+  "text_attempts": "المحاولات",
+  "congratulations": "تهانينا!",
+  "text_congrats": "اليوم يوم حظك - تم اختيارك لتدوير العجلة!",
+  "start": "ابدأ",
+  "age_question": "هل عمرك اكثر من 21 سنة؟",
+  "no": "لا",
+  "yes": "نعم",
+  "bad_luck": "حظ سيء!",
+  "try_again_translated": "حاول مرة اخرى",
+  "final_text": "عرض مخصص بانتظارك! فقط اضغط زر متابعة!",
+  "continue": "متابعة",
+  "answer_questions_count": "اجب عن كل الاسئلة للمتابعة",
+  "title_time": "لديك فقط {timer} لتدوير العجلة"
+}

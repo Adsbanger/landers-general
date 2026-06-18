@@ -1,0 +1,17 @@
+{
+  "spin_now": "PUTAR SEKARANG",
+  "spin": "PUTAR",
+  "text_attempts": "Percobaan",
+  "congratulations": "Selamat!",
+  "text_congrats": "Hari ini adalah hari keberuntunganmu - kamu dipilih untuk memutar roda!",
+  "start": "MULAI",
+  "age_question": "Apakah kamu berusia di atas 21 tahun?",
+  "no": "TIDAK",
+  "yes": "YA",
+  "bad_luck": "Kurang beruntung!",
+  "try_again_translated": "COBA LAGI",
+  "final_text": "Penawaran personal menunggumu! Cukup tekan tombol LANJUTKAN!",
+  "continue": "LANJUTKAN",
+  "answer_questions_count": "Jawab semua pertanyaan untuk melanjutkan",
+  "title_time": "Kamu hanya punya {timer} untuk memutar roda"
+}

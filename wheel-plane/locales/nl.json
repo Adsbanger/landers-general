@@ -1,0 +1,17 @@
+{
+  "spin_now": "DRAAI NU",
+  "spin": "DRAAI",
+  "text_attempts": "Pogingen",
+  "congratulations": "Gefeliciteerd!",
+  "text_congrats": "Vandaag is jouw geluksdag - je bent geselecteerd om aan het rad te draaien!",
+  "start": "START",
+  "age_question": "Ben je ouder dan 21 jaar?",
+  "no": "NEE",
+  "yes": "JA",
+  "bad_luck": "Jammer!",
+  "try_again_translated": "PROBEER OPNIEUW",
+  "final_text": "Er wacht een gepersonaliseerd aanbod op je! Druk gewoon op de knop DOORGAAN!",
+  "continue": "DOORGAAN",
+  "answer_questions_count": "Beantwoord alle vragen om door te gaan",
+  "title_time": "Je hebt maar {timer} om aan het rad te draaien"
+}

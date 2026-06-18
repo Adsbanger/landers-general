@@ -1,0 +1,17 @@
+{
+  "spin_now": "PUSING SEKARANG",
+  "spin": "PUSING",
+  "text_attempts": "Cubaan",
+  "congratulations": "Tahniah!",
+  "text_congrats": "Hari ini hari bertuah anda - anda dipilih untuk memusing roda!",
+  "start": "MULA",
+  "age_question": "Adakah umur anda lebih 21 tahun?",
+  "no": "TIDAK",
+  "yes": "YA",
+  "bad_luck": "Nasib malang!",
+  "try_again_translated": "CUBA LAGI",
+  "final_text": "Tawaran peribadi menanti anda! Hanya tekan butang TERUSKAN!",
+  "continue": "TERUSKAN",
+  "answer_questions_count": "Jawab semua soalan untuk teruskan",
+  "title_time": "Anda hanya ada {timer} untuk memusing roda"
+}

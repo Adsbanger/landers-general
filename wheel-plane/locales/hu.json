@@ -1,0 +1,17 @@
+{
+  "spin_now": "PORGESD MEG MOST",
+  "spin": "PORGESD",
+  "text_attempts": "Probalkozasok",
+  "congratulations": "Gratulalunk!",
+  "text_congrats": "Ma van a szerencsenapod - teged valasztottak a kerek megporgetesere!",
+  "start": "INDITAS",
+  "age_question": "Elmúltál 21 éves?",
+  "no": "NEM",
+  "yes": "IGEN",
+  "bad_luck": "Nincs szerencsed!",
+  "try_again_translated": "PROBALD UJRA",
+  "final_text": "Egy szemelyre szabott ajanlat var rad! Csak nyomd meg a FOLYTATAS gombot!",
+  "continue": "FOLYTATAS",
+  "answer_questions_count": "Valaszolj minden kerdesre a folytatashoz",
+  "title_time": "Csak {timer} all rendelkezesedre a kerek megporgetesere"
+}

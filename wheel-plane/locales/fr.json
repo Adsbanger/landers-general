@@ -1,0 +1,17 @@
+{
+  "spin_now": "TOURNE MAINTENANT",
+  "spin": "TOURNE",
+  "text_attempts": "Tentatives",
+  "congratulations": "Felicitations!",
+  "text_congrats": "Aujourd'hui est ton jour de chance - tu as ete selectionne pour tourner la roue!",
+  "start": "COMMENCER",
+  "age_question": "As-tu plus de 21 ans?",
+  "no": "NON",
+  "yes": "OUI",
+  "bad_luck": "Pas de chance!",
+  "try_again_translated": "REESSAYER",
+  "final_text": "Une offre personnalisee t'attend! Appuie simplement sur le bouton CONTINUER!",
+  "continue": "CONTINUER",
+  "answer_questions_count": "Reponds a toutes les questions pour continuer",
+  "title_time": "Tu n'as que {timer} pour tourner la roue"
+}

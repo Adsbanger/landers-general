@@ -1,0 +1,17 @@
+{
+  "spin_now": "PYORITA NYT",
+  "spin": "PYORITA",
+  "text_attempts": "Yritykset",
+  "congratulations": "Onnittelut!",
+  "text_congrats": "Tanaan on onnenpaivasi - sinut on valittu pyorittamaan pyoraa!",
+  "start": "ALOITA",
+  "age_question": "Oletko yli 21-vuotias?",
+  "no": "EI",
+  "yes": "KYLLA",
+  "bad_luck": "Huonoa onnea!",
+  "try_again_translated": "YRITA UUDELLEEN",
+  "final_text": "Henkilokohtainen tarjous odottaa sinua! Paina vain JATKA-painiketta!",
+  "continue": "JATKA",
+  "answer_questions_count": "Vastaa kaikkiin kysymyksiin jatkaaksesi",
+  "title_time": "Sinulla on vain {timer} aikaa pyorittaa pyoraa"
+}

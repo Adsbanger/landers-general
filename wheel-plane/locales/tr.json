@@ -1,0 +1,17 @@
+{
+  "spin_now": "SIMDI CEVIR",
+  "spin": "CEVIR",
+  "text_attempts": "Denemeler",
+  "congratulations": "Tebrikler!",
+  "text_congrats": "Bugun sansli gunun - carki cevirmek icin secildin!",
+  "start": "BASLAT",
+  "age_question": "21 yasindan buyuk musun?",
+  "no": "HAYIR",
+  "yes": "EVET",
+  "bad_luck": "Sanssizsin!",
+  "try_again_translated": "TEKRAR DENE",
+  "final_text": "Seni ozel bir teklif bekliyor! Sadece DEVAM ET dugmesine bas!",
+  "continue": "DEVAM ET",
+  "answer_questions_count": "Devam etmek icin tum sorulari cevapla",
+  "title_time": "Carki cevirmek icin sadece {timer} suren var"
+}
