@@ -333,14 +333,14 @@
                     <div class="modal" id="modal">
                         <div class="modal__content">
                             <div class="modal__title">
-                                <span>WON</span>
+                                <span>ชนะแล้ว</span>
                             </div>
                             <div class="modal__multify">
                                 <span id="modal-multiplier">24.50</span>x
                             </div>
                             <div class="modal__balance">
                                 + <span id="modal-balance">2450</span>
-                                <span class="modal__balance-currency">R</span>
+                                <span class="modal__balance-currency">฿</span>
                             </div>
                         </div>
                     </div>
@@ -351,54 +351,54 @@
                     <div class="game-controls" id="game-controls">
                         <div class="game-controls__block is--first">
                             <div class="game-controls__rate">
-                                <div class="game-controls__rate-btn" data-rate-action="min">MIN</div>
+                                <div class="game-controls__rate-btn" data-rate-action="min">ต่ำสุด</div>
                                 <span class="game-controls__rate-value" id="rate">100</span>
-                                <div class="game-controls__rate-btn" data-rate-action="max">MAX</div>
+                                <div class="game-controls__rate-btn" data-rate-action="max">สูงสุด</div>
                             </div>
 
                             <div class="game-controls__defaults">
                                 <div class="game-controls__defaults-item">
                                     <span class="game-controls__defaults-item-value">1</span>
-                                    <span class="game-controls__defaults-item-currency">R</span>
+                                    <span class="game-controls__defaults-item-currency">฿</span>
                                 </div>
                                 <div class="game-controls__defaults-item">
                                     <span class="game-controls__defaults-item-value">2</span>
-                                    <span class="game-controls__defaults-item-currency">R</span>
+                                    <span class="game-controls__defaults-item-currency">฿</span>
                                 </div>
                                 <div class="game-controls__defaults-item">
                                     <span class="game-controls__defaults-item-value">5</span>
-                                    <span class="game-controls__defaults-item-currency">R</span>
+                                    <span class="game-controls__defaults-item-currency">฿</span>
                                 </div>
                                 <div class="game-controls__defaults-item">
                                     <span class="game-controls__defaults-item-value">10</span>
-                                    <span class="game-controls__defaults-item-currency">R</span>
+                                    <span class="game-controls__defaults-item-currency">฿</span>
                                 </div>
                             </div>
                         </div>
                         <div class="game-controls__block">
                             <div class="game-controls__headings">
-                                <span class="game-controls__headings-dif">Difficulty</span>
-                                <span class="game-controls__headings-chance">Chance of being shot down</span>
+                                <span class="game-controls__headings-dif">ระดับความยาก</span>
+                                <span class="game-controls__headings-chance">โอกาสที่จะถูกยิงตก</span>
                             </div>
 
                             <div class="game-controls__switcher">
-                                <span class="game-controls__switcher-item is--active" data-difficulty="easy">Easy</span>
-                                <span class="game-controls__switcher-item" data-difficulty="medium">Medium</span>
-                                <span class="game-controls__switcher-item" data-difficulty="hard">Hard</span>
-                                <span class="game-controls__switcher-item" data-difficulty="hardcore">Hardcore</span>
+                                <span class="game-controls__switcher-item is--active" data-difficulty="easy">ง่าย</span>
+                                <span class="game-controls__switcher-item" data-difficulty="medium">ปานกลาง</span>
+                                <span class="game-controls__switcher-item" data-difficulty="hard">ยาก</span>
+                                <span class="game-controls__switcher-item" data-difficulty="hardcore">โหดสุด</span>
                             </div>
                         </div>
                         <div class="game-controls__block is--last">
                             <button class="game-controls__cash-btn" type="button" id="cash-btn">
                                 <div class="game-controls__cash-btn-inner">
-                                    <span>CASH OUT</span>
+                                    <span>ถอนเงิน</span>
                                     <br />
-                                    <span><span id="balance">100</span> R</span>
+                                    <span><span id="balance">100</span> ฿</span>
                                 </div>
                             </button>
                             <div class="game-controls__go-btn">
                                 <button class="bottom__section-button pulse" id="go-btn" data-spins="1">
-                                    <span class="bottom__section-button-default" id="go-btn-default-text"> Play</span>
+                                    <span class="bottom__section-button-default" id="go-btn-default-text"> เล่น</span>
                                     <span class="bottom__section-button-next" id="go-btn-next-text"> </span>
                                 </button>
 
@@ -409,7 +409,7 @@
                         <div class="game-controls__win-btn">
 
                             <a href="#" id="win-button-modal" class="bottom__section-button is--link redirect_btn">
-                                <span>Claim</span>
+                                <span>รับสิทธิ์</span>
                                 <div class="button-loader">
                                     <span></span>
                                 </div>
@@ -429,29 +429,7 @@
         </div>
     </div>
 
-    <div class="devMode dev-mode" id="devMode">
-        <button class="menu-button" id="toggleMenu">
-            <svg xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 20 20" fill="none"
-                class="open">
-                <path fill="currentColor" fill-rule="evenodd"
-                    d="M19 4a1 1 0 01-1 1H2a1 1 0 010-2h16a1 1 0 011 1zm0 6a1 1 0 01-1 1H2a1 1 0 110-2h16a1 1 0 011 1zm-1 7a1 1 0 100-2H2a1 1 0 100 2h16z" />
-            </svg>
-            <svg xmlns="http://www.w3.org/2000/svg" class="close" viewBox="0 0 384 512">
-                d="M342.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L192 210.7 86.6
-                105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L146.7 256 41.4 361.4c-12.5 12.5-12.5 32.8 0
-                45.3s32.8 12.5 45.3 0L192 301.3 297.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L237.3 256 342.6
-                150.6z" />
-            </svg>
-        </button>
-        <div class="dev-mode__wrapper" id="settingsWrapper">
-            <form id="settingsForm">
-                <textarea id="settingsTextarea" rows="10" cols="30"></textarea>
-                <br>
-                <button type="button" id="getSettings">Отримати</button>
-                <button type="button" id="submitSettings">Оновити</button>
-            </form>
-        </div>
-    </div>
+
     <style>
         .dev-mode {
             visibility: hidden;
